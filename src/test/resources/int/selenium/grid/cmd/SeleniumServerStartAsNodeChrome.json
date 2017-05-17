@@ -1,0 +1,27 @@
+{
+
+	"capabilities":
+	
+	[
+	
+		{
+		
+			"browserName": "chrome",
+			
+			"platform": "WINDOWS",
+			
+			"maxInstances": 2
+			
+		}
+		
+	],
+	
+	"maxSession": 2,
+	
+	"port": 5574,
+	
+	"hub": "http://localhost:4444",
+	
+	"debug": false
+  
+}

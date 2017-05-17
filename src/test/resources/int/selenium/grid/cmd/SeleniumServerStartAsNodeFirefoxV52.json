@@ -1,0 +1,29 @@
+{
+
+	"capabilities":
+	
+	[
+	
+		{
+		
+			"browserName": "firefox",
+			
+			"version": "52",
+			
+			"platform": "WINDOWS",
+			
+			"maxInstances": 2
+			
+		}
+		
+	],
+	
+	"maxSession": 2,
+	
+	"port": 5570,
+	
+	"hub": "http://localhost:4444",
+	
+	"debug": false
+  
+}
