@@ -1,6 +1,7 @@
 # Basic Setup for Browser Test Automation, Distributed Test Execution, Build Automation and Continuous Integration
 
 ## Testing Paradigms / Test Setup Specifications
+The test setup described below can be used for the following:  
 
 - automated testing
 - data-driven testing
@@ -764,7 +765,7 @@ Additionally user information about the application status is displayed.
 
 ```
 InfoAlert infoAlert=
-	new InfoAlert();
+				new InfoAlert();
 
 infoAlert.createAlert(
 	"Executing Test[...]");
