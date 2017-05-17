@@ -764,7 +764,7 @@ Additionally user information about the application status is displayed.
 
 ```
 InfoAlert infoAlert=
-				new InfoAlert();
+	new InfoAlert();
 
 infoAlert.createAlert(
 	"Executing Test[...]");
